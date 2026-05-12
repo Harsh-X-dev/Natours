@@ -1,0 +1,13 @@
+## Node
+node_modules/
+
+## Environment files
+config.env
+.env.*
+
+.prettierrc
+.eslintrc.json
+
+dev-data/
+
+public/
